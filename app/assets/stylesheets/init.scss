@@ -30,3 +30,19 @@
     width: $body-width;
     margin: 0 auto;
 }
+
+$inline-group-margin: 20px;
+
+.inline-group {
+    display: inline-block;
+
+    &:first-child {
+        margin-left: 0;
+    }
+
+    > * {
+        display: inline-block;
+        vertical-align: middle;
+        margin-left: $inline-group-margin;
+    }
+}
