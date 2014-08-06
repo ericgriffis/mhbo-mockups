@@ -1,0 +1,28 @@
+[class*="button-"] {
+    border-radius: 8px;
+}
+
+.button-group-left {
+    > *[class*="button-"] {
+        margin-right: 5px;
+    }
+}
+
+.button-group-right {
+    > *[class*="button-"] {
+        margin-left: 10px;
+    }
+}
+
+.button-sm {
+    width: 128px;
+    height: 58px;
+
+    @extend .text-sm;
+    @extend .text-center;
+
+    > * {
+        margin-top: 25px;
+        display: inline-block;
+    }
+}

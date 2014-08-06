@@ -1,0 +1,32 @@
+@import "reset";
+@import "config/init";
+@import "base/init";
+@import "components/init";
+
+.full-width {
+    width: 100%;
+    display: inline-block;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.column-wrapper {
+    display: inline-block;
+    width: 100%;
+}
+
+.header-column {
+    width: $header-width;
+    margin: 0 auto;
+}
+
+.body-column {
+    width: $body-width;
+    margin: 0 auto;
+}

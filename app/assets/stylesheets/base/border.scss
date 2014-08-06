@@ -1,0 +1,15 @@
+[class*="border-"] {
+    border-style: solid;
+}
+
+.border-thin {
+    border-width: 1px;
+}
+
+.border-thick {
+    border-width: 3px;
+}
+
+.border-white {
+    border-color: $white;
+}

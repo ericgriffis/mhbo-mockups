@@ -1,0 +1,44 @@
+// `-spacer-` classes allow us to control vertical padding between elements across screen sizes
+
+[class*="-spacer-"] {
+    @extend .border-transparent;
+    margin: 0;
+
+    + * {
+        clear: both;
+    }
+}
+
+$xs: 0.5em;
+$sm: 1em;
+$md: 2em;
+$lg: 4em;
+$xl: 6em;
+
+.spacer-none {
+    height: 0;
+
+    + * {
+        clear: none;
+    }
+}
+
+.spacer-xs {
+    height: $xs;
+}
+
+.spacer-sm {
+    height: $sm;
+}
+
+.spacer-md {
+    height: $md;
+}
+
+.spacer-lg {
+    height: $lg;
+}
+
+.spacer-xl {
+    height: $xl;
+}
