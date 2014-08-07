@@ -16,21 +16,6 @@
     float: right;
 }
 
-.column-wrapper {
-    display: inline-block;
-    width: 100%;
-}
-
-.header-column {
-    width: $header-width;
-    margin: 0 auto;
-}
-
-.body-column {
-    width: $body-width;
-    margin: 0 auto;
-}
-
 $inline-group-margin: 20px;
 
 .inline-group {

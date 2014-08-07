@@ -1,4 +1,7 @@
 class MobileController < ApplicationController
-    def landing
+    def homeV6a
+    end
+
+    def homeV7b
     end
 end

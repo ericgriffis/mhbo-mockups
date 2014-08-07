@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
-# Navigation menu handler
-gem 'simple-navigation'
+# Generate sourcemaps in `development` mode
+# group :development do
+#   gem 'sass-rails-source-maps'
+# end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
 # Use sqlite3 as the database for Active Record

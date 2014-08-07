@@ -1,13 +1,9 @@
 Rails.application.routes.draw do
 
+  get 'mobile/homeV6a'
+  get 'mobile/homeV7b'
 
-  get 'static/home'
-
-  # root 'static#home'
-
-  get 'mobile/landing'
-
-  root 'mobile#landing'
+  root 'mobile#homeV6a'
 
   # root to: redirect('/test', status: 302)
 

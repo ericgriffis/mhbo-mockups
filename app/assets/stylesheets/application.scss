@@ -12,6 +12,8 @@
  
 List files/dirs below
 ----------------------
- *= require ./init.scss
+*= require_self
+*= require ./init.scss
+
 */
 

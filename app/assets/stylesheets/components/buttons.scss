@@ -22,6 +22,19 @@
     @extend .text-center;
 
     > * {
+        margin-top: 16px;
+        display: inline-block;
+    }
+}
+
+.button-lg {
+    width: 128px;
+    height: 92px;
+
+    @extend .text-sm;
+    @extend .text-center;
+
+    > * {
         margin-top: 25px;
         display: inline-block;
     }
