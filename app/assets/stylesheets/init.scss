@@ -8,6 +8,10 @@
     display: inline-block;
 }
 
+.full-height {
+    height: 100%;
+}
+
 .left {
     float: left;
 }
@@ -16,9 +20,9 @@
     float: right;
 }
 
-$inline-group-margin: 20px;
+$inline-group-margin: 10px;
 
-.inline-group {
+[class*="inline-group-"] {
     display: inline-block;
 
     &:first-child {
@@ -28,6 +32,27 @@ $inline-group-margin: 20px;
     > * {
         display: inline-block;
         vertical-align: middle;
-        margin-left: $inline-group-margin;
     }
+}
+
+.inline-group-sm {
+    > * {
+        margin-left: $inline-group-margin;            
+    }
+}
+
+.inline-group-md {
+    > * {
+        margin-left: $inline-group-margin * 2;            
+    }
+}
+
+input[type="text"],
+input[type="submit"]
+ {
+    border: none;
+    margin: 0;
+    border-radius: 0;
+    width: auto;
+    padding: 0;
 }

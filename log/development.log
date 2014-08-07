@@ -18171,3 +18171,2905 @@ Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 11:52:3
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 11:52:39 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 11:55:55 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (1.9ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (4.1ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (144.4ms)
+  Rendered mobile/partials/_header.html.erb (1.8ms)
+Completed 200 OK in 185ms (Views: 159.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 11:55:56 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (4.0ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 11:56:05 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (4.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 11:56:30 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.4ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (85.2ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 91ms (Views: 90.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 11:57:07 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (89.5ms)
+  Rendered mobile/partials/_header.html.erb (0.5ms)
+Completed 200 OK in 96ms (Views: 95.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 11:58:55 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 11:59:03 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 11:59:04 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.4ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (3.5ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 11:59:42 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.0ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 12:08:44 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (0.9ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (112.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 118ms (Views: 117.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 12:37:45 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 12:37:46 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.5ms)
+  Rendered mobile/partials/_head.html.erb (4.1ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 12:38:36 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.4ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.3ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 12:40:43 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.0ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (83.1ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 89ms (Views: 88.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 12:42:06 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (5.1ms)
+  Rendered mobile/partials/_head.html.erb (36.5ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 47ms (Views: 45.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:29:31 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:33:33 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (0.8ms)
+Completed 500 Internal Server Error in 4ms
+
+SyntaxError (/Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/views/mobile/homeV7b.html.erb:25: syntax error, unexpected tSTRING_BEG, expecting ')'
+..._tag(:class => "button-icon") "icons/target.png" );@output_b...
+...                               ^):
+  app/views/mobile/homeV7b.html.erb:25: syntax error, unexpected tSTRING_BEG, expecting ')'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.3ms)
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:34:25 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (0.6ms)
+Completed 500 Internal Server Error in 3ms
+
+SyntaxError (/Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/views/mobile/homeV7b.html.erb:25: syntax error, unexpected tSTRING_BEG, expecting ')'
+...ll), :class => "button-icon") "icons/target.png" );@output_b...
+...                               ^):
+  app/views/mobile/homeV7b.html.erb:25: syntax error, unexpected tSTRING_BEG, expecting ')'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.5ms)
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:34:26 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (0.5ms)
+Completed 500 Internal Server Error in 3ms
+
+SyntaxError (/Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/views/mobile/homeV7b.html.erb:25: syntax error, unexpected tSTRING_BEG, expecting ')'
+...ll), :class => "button-icon") "icons/target.png" );@output_b...
+...                               ^):
+  app/views/mobile/homeV7b.html.erb:25: syntax error, unexpected tSTRING_BEG, expecting ')'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.3ms)
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:35:17 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (35.6ms)
+Completed 500 Internal Server Error in 38ms
+
+ActionView::Template::Error (undefined local variable or method `iterator' for #<#<Class:0x007fe9d1780948>:0x007fe9d54d5460>):
+    22:                 <span>Search Nearby</span>
+    23:             </div>
+    24:             <div class="right">
+    25:                 <%= image_tag(iterator.image.url("icons/target.png"), :class => "button-icon") %>
+    26:             </div>
+    27: 
+    28:         </div>
+  app/views/mobile/homeV7b.html.erb:25:in `_app_views_mobile_home__b_html_erb__2646043945614272476_70321141379880'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (9.7ms)
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:35:24 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (7.6ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (undefined local variable or method `iterator' for #<#<Class:0x007fe9d1780948>:0x007fe9d0e07218>):
+    22:                 <span>Search Nearby</span>
+    23:             </div>
+    24:             <div class="right">
+    25:                 <%= image_tag(iterator.image.url(icons/target.png), :class => "button-icon") %>
+    26:             </div>
+    27: 
+    28:         </div>
+  app/views/mobile/homeV7b.html.erb:25:in `_app_views_mobile_home__b_html_erb__2646043945614272476_70321104256800'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (11.9ms)
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:35:25 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (6.7ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (undefined local variable or method `iterator' for #<#<Class:0x007fe9d1780948>:0x007fe9d482cb28>):
+    22:                 <span>Search Nearby</span>
+    23:             </div>
+    24:             <div class="right">
+    25:                 <%= image_tag(iterator.image.url(icons/target.png), :class => "button-icon") %>
+    26:             </div>
+    27: 
+    28:         </div>
+  app/views/mobile/homeV7b.html.erb:25:in `_app_views_mobile_home__b_html_erb__2646043945614272476_70321104256800'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (12.2ms)
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:35:31 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (33.3ms)
+Completed 500 Internal Server Error in 36ms
+
+ActionView::Template::Error (undefined local variable or method `iterator' for #<#<Class:0x007fe9d1780948>:0x007fe9d533d5d0>):
+    22:                 <span>Search Nearby</span>
+    23:             </div>
+    24:             <div class="right">
+    25:                 <%= image_tag(iterator.image.url("icons/target.png"), :class => "button-icon") %>
+    26:             </div>
+    27: 
+    28:         </div>
+  app/views/mobile/homeV7b.html.erb:25:in `_app_views_mobile_home__b_html_erb__2646043945614272476_70321140523340'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (9.8ms)
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:37:03 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.1ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (61.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 69ms (Views: 67.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:37:03 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:37:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:37:04 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.3ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (61.3ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 67ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:37:39 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:39:40 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.8ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (62.4ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 69ms (Views: 68.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:39:40 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:39:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:39:41 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.4ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (86.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 92ms (Views: 91.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:40:36 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (3.5ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:40:52 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.2ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:41:31 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (33.2ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 39ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:41:53 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.2ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:42:46 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:44:21 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (26.4ms)
+Completed 500 Internal Server Error in 32ms
+
+ActionView::Template::Error (Invalid CSS after "    width": expected ";", was ": 128px;"
+  (in /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/init.scss:19)):
+    1: <head>
+    2:     <title>MHBO</title>
+    3:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    4:     <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    5:     <%= csrf_meta_tags %>
+    6: </head>
+  app/assets/stylesheets/components/buttons.scss:19
+  app/assets/stylesheets/components/init.scss:1
+  app/assets/stylesheets/init.scss:4
+  app/views/mobile/partials/_head.html.erb:3:in `_app_views_mobile_partials__head_html_erb___3787145066291072301_70321104518100'
+  app/views/layouts/mobile.html.erb:3:in `_app_views_layouts_mobile_html_erb___93894884173412263_70321104088980'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (29.0ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (37.9ms)
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.1ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (60.2ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:44:34 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:44:50 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (4.1ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:44:57 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:45:47 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (57.5ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 64ms (Views: 62.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:46:27 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.1ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (61.2ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 67ms (Views: 66.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:51:12 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.0ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (56.0ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 61ms (Views: 60.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:51:57 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (3.5ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:52:33 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.2ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (86.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 92ms (Views: 90.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:53:23 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.3ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (87.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 94ms (Views: 93.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:55:39 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (5.3ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:55:41 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:56:10 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (3.5ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:56:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:10 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:56:11 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:11 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:11 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:11 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:11 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:56:11 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:56:11 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:56:11 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (3.9ms)
+  Rendered mobile/partials/_header.html.erb (0.4ms)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:56:43 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.3ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (94.2ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 100ms (Views: 99.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:57:59 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.2ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (90.9ms)
+  Rendered mobile/partials/_header.html.erb (0.4ms)
+Completed 200 OK in 98ms (Views: 97.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:58:09 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.8ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (94.7ms)
+  Rendered mobile/partials/_header.html.erb (0.4ms)
+Completed 200 OK in 101ms (Views: 100.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:59:10 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.3ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (87.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 93ms (Views: 91.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:59:34 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.2ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (94.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 100ms (Views: 99.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 13:59:47 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.0ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (93.5ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 99ms (Views: 98.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:00:01 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:00:35 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.8ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (62.3ms)
+  Rendered mobile/partials/_header.html.erb (0.4ms)
+Completed 200 OK in 69ms (Views: 68.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:00:36 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.9ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (56.3ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 63ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:01:19 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.0ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (59.2ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 64ms (Views: 63.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:01:56 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.5ms)
+  Rendered mobile/partials/_head.html.erb (4.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:04:25 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:05:03 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (6.7ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:05:07 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (8.1ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 14ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:05:45 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (0.9ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (151.3ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 156ms (Views: 155.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:08:53 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (3.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:09:33 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (3.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:09:45 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.5ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (92.3ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 99ms (Views: 97.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:10:05 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.5ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (85.8ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 92ms (Views: 91.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:12:22 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (4.0ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:12:45 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (60.1ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:13:12 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:13:24 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.4ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (94.6ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 100ms (Views: 99.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:13:25 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:13:42 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (33.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:13:42 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:13:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:43 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:43 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:43 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:13:43 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:13:43 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:13:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:13:43 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:14:10 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.0ms)
+  Rendered mobile/partials/_head.html.erb (4.0ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:15:31 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.1ms)
+  Rendered mobile/partials/_head.html.erb (3.5ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:17:45 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:18:54 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.6ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-07 14:19:28 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-07 14:19:28 -0700

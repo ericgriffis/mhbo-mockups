@@ -1,41 +1,56 @@
 [class*="button-"] {
     border-radius: 8px;
-}
-
-.button-group-left {
-    > *[class*="button-"] {
-        margin-right: 5px;
-    }
-}
-
-.button-group-right {
-    > *[class*="button-"] {
-        margin-left: 10px;
-    }
+    overflow: hidden;
 }
 
 .button-sm {
+    display: inline-block;
     width: 128px;
     height: 58px;
 
     @extend .text-sm;
     @extend .text-center;
 
-    > * {
+    > .button-text {
         margin-top: 16px;
         display: inline-block;
     }
 }
 
+$button-lg-LR-padding: 34px;
+$button-lg-border-width: 1px;
+
 .button-lg {
-    width: 128px;
+    display: inline-block;
+    width: $body-width - ($button-lg-LR-padding * 2 + $button-lg-border-width * 2);
     height: 92px;
+    padding: 0 $button-lg-LR-padding;
 
+    @extend .border-thin;
     @extend .text-sm;
-    @extend .text-center;
+    @extend .text-left;
 
-    > * {
-        margin-top: 25px;
+    .button-text {
+        margin-top: 34px;
         display: inline-block;
+    }
+
+    .button-icon {
+        height: 48px;
+        width: 48px;
+        display: inline-block;
+        margin-top: 23px;
+    }
+
+    &.button-group {
+        width: $body-width - ($button-lg-border-width * 2);
+        padding: 0;
+        
+        > *:first-of-type{
+            padding: 0 $button-lg-LR-padding;
+        }
+        > *:last-of-type{
+            padding: 0 $button-lg-LR-padding;
+        }
     }
 }
