@@ -14,10 +14,32 @@
     border-color: $white;
 }
 
-.border-gray {
-    border-color: $gray;
+.border-gray-md {
+    border-color: $gray-md;
+}
+
+.border-gray-light {
+    border-color: $gray-light;
+}
+
+.border-gray-xlight {
+    border-color: $gray-xlight;
 }
 
 .border-orange {
     border-color: $orange;
+}
+
+.border-image-wrapper {
+    padding: 3px;
+    border-radius: 8px;
+    border: none;
+    display: inline-block;
+}
+
+.border-image {
+    height: 100%;
+    width: auto;
+    vertical-align: middle;
+    border-radius: 8px;
 }

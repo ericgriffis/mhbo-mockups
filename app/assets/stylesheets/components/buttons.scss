@@ -1,4 +1,8 @@
-[class*="button-"] {
+.round {
+    border-radius: 8px;
+}
+
+.button-sm, .button-lg {
     border-radius: 8px;
     overflow: hidden;
 }
@@ -22,7 +26,7 @@ $button-lg-border-width: 1px;
 
 .button-lg {
     display: inline-block;
-    width: $body-width - ($button-lg-LR-padding * 2 + $button-lg-border-width * 2);
+    width: $body-width;
     height: 92px;
     padding: 0 $button-lg-LR-padding;
 
@@ -33,6 +37,7 @@ $button-lg-border-width: 1px;
     .button-text {
         margin-top: 34px;
         display: inline-block;
+        overflow: visible;
     }
 
     .button-icon {
@@ -43,7 +48,7 @@ $button-lg-border-width: 1px;
     }
 
     &.button-group {
-        width: $body-width - ($button-lg-border-width * 2);
+        width: $body-width;
         padding: 0;
         
         > *:first-of-type{

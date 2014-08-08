@@ -9,11 +9,11 @@
     }
 }
 
-$xs: 0.5em;
-$sm: 1em;
-$md: 2em;
-$lg: 4em;
-$xl: 6em;
+$xs: 5px;
+$sm: $xs * 2;
+$md: $sm * 2;
+$lg: $md * 2;
+$xl: $md * 3;
 
 .spacer-none {
     height: 0;
