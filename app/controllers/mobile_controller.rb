@@ -4,4 +4,7 @@ class MobileController < ApplicationController
 
     def homeV7b
     end
+
+    def login
+    end
 end

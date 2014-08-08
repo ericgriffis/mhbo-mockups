@@ -32496,3 +32496,3748 @@ Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:15:26 -070
 
 
 Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-08 13:15:26 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (2.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (10.8ms)
+  Rendered mobile/partials/_head.html.erb (71.6ms)
+  Rendered mobile/partials/_header.html.erb (2.6ms)
+Completed 200 OK in 121ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-08 13:25:22 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.4ms)
+  Rendered mobile/login.html.erb within layouts/mobile (3.0ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (116.1ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 156ms (Views: 155.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:27:42 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.4ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.1ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:27:52 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.5ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (4.5ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:28:06 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.4ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (3.9ms)
+  Rendered mobile/partials/_header.html.erb (0.4ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:29:29 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.4ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (4.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:30:59 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (34.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:31:17 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (3.2ms)
+  Rendered mobile/partials/_head.html.erb (6.3ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:32:34 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (3.5ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:32:35 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (4.0ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:32:42 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:33:28 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (28.8ms)
+Completed 200 OK in 39ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:34:43 -0700
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.6ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (4.2ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/stock/splash-A.jpg" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-08 13:34:48 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.8ms)
+  Rendered mobile/partials/_head.html.erb (34.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 41.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-08 13:34:52 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (4.5ms)
+  Rendered mobile/partials/_header.html.erb (0.9ms)
+Completed 200 OK in 12ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:36:55 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.5ms)
+  Rendered mobile/partials/_head.html.erb (4.8ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 12ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:37:38 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.3ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:37:47 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.1ms)
+  Rendered mobile/partials/_head.html.erb (4.8ms)
+  Rendered mobile/partials/_header.html.erb (0.5ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-08 13:38:18 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-08 13:38:30 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (49.4ms)
+  Rendered mobile/partials/_header.html.erb (0.7ms)
+Completed 200 OK in 59ms (Views: 57.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:38:31 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.1ms)
+  Rendered mobile/partials/_head.html.erb (4.6ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:38:35 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (4.7ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 11ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:39:04 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.8ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (148.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 156ms (Views: 155.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:39:58 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:40:17 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.2ms)
+  Rendered mobile/partials/_head.html.erb (3.9ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:40:37 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:40:51 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:41:15 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.5ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:41:16 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:41:38 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:42:34 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.1ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (129.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 135ms (Views: 134.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:42:35 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:43:17 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:43:30 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:43:52 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (3.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:44:01 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:44:21 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (4.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:45:50 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (4.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:46:01 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.4ms)
+  Rendered mobile/partials/_head.html.erb (4.2ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:46:09 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:46:26 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (3.5ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:46:27 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (4.4ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 12ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:47:02 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:47:34 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.1ms)
+  Rendered mobile/partials/_head.html.erb (4.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:47:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:34 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:47:35 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:47:52 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (3.5ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:48:00 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (148.4ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 156ms (Views: 155.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:48:49 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:48:50 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:48:50 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:48:50 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.1ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (99.1ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 135ms (Views: 134.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:48:57 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (120.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 126ms (Views: 125.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:49:18 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.2ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (120.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 126ms (Views: 125.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:49:27 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.2ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.1ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (165.0ms)
+  Rendered mobile/partials/_header.html.erb (0.4ms)
+Completed 200 OK in 173ms (Views: 171.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:32 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:49:34 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (4.6ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:49:34 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:49:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 13:49:35 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.5ms)
+  Rendered mobile/partials/_head.html.erb (4.7ms)
+  Rendered mobile/partials/_header.html.erb (0.5ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:06 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (3.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:50:21 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (4.2ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:50:37 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (4.9ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:21 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.2ms)
+  Rendered mobile/partials/_head.html.erb (33.0ms)
+  Rendered mobile/partials/_header.html.erb (0.7ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:35 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (4.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:51:56 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (3.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:52:25 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (33.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:53:04 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.5ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (144.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 151ms (Views: 150.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:55:01 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:55:10 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (34.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:56:11 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (4.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:13 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 13:57:52 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (4.2ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:00:20 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (4.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:01:30 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (0.9ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (140.2ms)
+  Rendered mobile/partials/_header.html.erb (0.4ms)
+Completed 200 OK in 145ms (Views: 144.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:02:50 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (113.5ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 121ms (Views: 120.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:03:36 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (0.8ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (123.9ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 129ms (Views: 128.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:05:22 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:32 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (29.8ms)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:05:46 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (6.7ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:05:49 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:07:03 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.0ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (125.0ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 130ms (Views: 129.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:08:16 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:08:30 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (0.6ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:30 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:30 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:08:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:31 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:08:31 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:31 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:08:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:31 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.0ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (131.1ms)
+  Rendered mobile/partials/_header.html.erb (0.4ms)
+Completed 200 OK in 137ms (Views: 135.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:08:58 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (5.2ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:09:28 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (4.1ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:09:49 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:10:04 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.7ms)
+  Rendered mobile/partials/_head.html.erb (5.1ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:10:04 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:05 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:10:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:05 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:05 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:10:05 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.8ms)
+  Rendered mobile/partials/_head.html.erb (4.2ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:17 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (0.8ms)
+  Rendered mobile/partials/_head.html.erb (4.1ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:10:56 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.0ms)
+  Rendered mobile/login.html.erb within layouts/mobile (0.9ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:11:05 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.9ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:11:24 -0700
+
+
+Started GET "/mobile/homeV7b" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+Processing by MobileController#homeV7b as HTML
+  Rendered mobile/partials/_footer-lang-switch.html.erb (0.3ms)
+  Rendered mobile/homeV7b.html.erb within layouts/mobile (1.9ms)
+WARNING on line 4 of /Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/assets/stylesheets/base/layout/spacer.scss: "[class*="-spacer-"]" failed to @extend ".border-transparent".
+  The selector ".border-transparent" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-transparent !optional" if the extend should be able to fail.
+
+
+  Rendered mobile/partials/_head.html.erb (145.0ms)
+  Rendered mobile/partials/_header.html.erb (0.6ms)
+Completed 200 OK in 155ms (Views: 152.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/stock/mhbo-video.jpg" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/icons/arrow-right.png" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:32 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.2ms)
+  Rendered mobile/partials/_head.html.erb (4.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:33 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (2.1ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:12:52 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.3ms)
+  Rendered mobile/partials/_head.html.erb (4.4ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:26 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:13:39 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:13:40 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:13:44 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.5ms)
+  Rendered mobile/partials/_head.html.erb (3.8ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:13:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:44 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:44 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:44 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:13:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:45 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:13:45 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:13:45 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:15 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.1ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.6ms)
+  Rendered mobile/partials/_head.html.erb (3.7ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:14:29 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.4ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.1ms)
+  Rendered mobile/partials/_head.html.erb (4.0ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:15:06 -0700
+
+
+Started GET "/mobile/login" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+Processing by MobileController#login as HTML
+  Rendered mobile/partials/_footer-sign-up.html.erb (0.4ms)
+  Rendered mobile/login.html.erb within layouts/mobile (1.2ms)
+  Rendered mobile/partials/_head.html.erb (3.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-08 14:15:15 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-08 14:15:15 -0700

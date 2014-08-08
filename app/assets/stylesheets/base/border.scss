@@ -1,45 +1,52 @@
-[class*="border-"] {
-    border-style: solid;
-}
+body {
 
-.border-thin {
-    border-width: 1px;
-}
+    [class*="border-"] {
+        border-style: solid;
+    }
 
-.border-thick {
-    border-width: 3px;
-}
+    .border-thin {
+        border-width: 1px;
+    }
 
-.border-white {
-    border-color: $white;
-}
+    .border-thick {
+        border-width: 3px;
+    }
 
-.border-gray-md {
-    border-color: $gray-md;
-}
+    .border-white {
+        border-color: $white;
+    }
 
-.border-gray-light {
-    border-color: $gray-light;
-}
+    .border-red {
+        border-color: $red;
+    }
 
-.border-gray-xlight {
-    border-color: $gray-xlight;
-}
+    .border-gray-md {
+        border-color: $gray-md;
+    }
 
-.border-orange {
-    border-color: $orange;
-}
+    .border-gray-light {
+        border-color: $gray-light;
+    }
 
-.border-image-wrapper {
-    padding: 3px;
-    border-radius: 8px;
-    border: none;
-    display: inline-block;
-}
+    .border-gray-xlight {
+        border-color: $gray-xlight;
+    }
 
-.border-image {
-    height: 100%;
-    width: auto;
-    vertical-align: middle;
-    border-radius: 8px;
+    .border-orange {
+        border-color: $orange;
+    }
+
+    .border-image-wrapper {
+        padding: 3px;
+        border-radius: 8px;
+        border: none;
+        display: inline-block;
+    }
+
+    .border-image {
+        height: 100%;
+        width: auto;
+        vertical-align: middle;
+        border-radius: 8px;
+    }
 }

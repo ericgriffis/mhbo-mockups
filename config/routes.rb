@@ -2,6 +2,7 @@ Rails.application.routes.draw do
 
   get 'mobile/homeV6a'
   get 'mobile/homeV7b'
+  get 'mobile/login'
 
   root 'mobile#homeV6a'
 

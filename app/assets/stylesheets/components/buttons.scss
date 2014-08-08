@@ -2,9 +2,12 @@
     border-radius: 8px;
 }
 
+
 .button-sm, .button-lg {
-    border-radius: 8px;
-    overflow: hidden;
+    &[class*="button-"] {
+        border-radius: 8px;
+        overflow: hidden;
+    }
 }
 
 .button-sm {
@@ -25,7 +28,7 @@ $button-lg-LR-padding: 34px;
 $button-lg-LR-padding-thin: 18px;
 $button-lg-border-width: 1px;
 
-.button-lg {
+.button-lg[class*="button-"] {
     display: inline-block;
     width: 100%;
     height: 92px;
@@ -33,7 +36,6 @@ $button-lg-border-width: 1px;
 
     @extend .border-thin;
     @extend .text-sm;
-    @extend .text-left;
 
     .button-text {
         margin-top: 34px;
