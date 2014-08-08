@@ -45,8 +45,8 @@
 .panel {
     @extend .button-lg;
     @extend .auto-height;
-
     padding: 0 20px;
+    height: auto;
 }
 
 $inline-group-margin: 10px;
@@ -108,6 +108,9 @@ $col-1-width: (100% * 1/24);
 .col-wrapper {
     margin-left: -$gutter;
     margin-right: -$gutter;
+    display: block;
+    margin: 0 auto;
+
     > [class*="col-"] {
         float: left;
         padding-left: $gutter;
@@ -129,79 +132,79 @@ $col-1-width: (100% * 1/24);
             padding-right: 0;
         }
     }
-}
 
-.col-24 {
-    width: $col-24-width;
-}
-.col-23 {
-    width: $col-23-width;
-}
-.col-22 {
-    width: $col-22-width;
-}
-.col-21 {
-    width: $col-21-width;
-}
-.col-20 {
-    width: $col-20-width;
-}
-.col-19 {
-    width: $col-19-width;
-}
-.col-18 {
-    width: $col-18-width;
-}
-.col-17 {
-    width: $col-17-width;
-}
-.col-16 {
-    width: $col-16-width;
-}
-.col-15 {
-    width: $col-15-width;
-}
-.col-14 {
-    width: $col-14-width;
-}
-.col-13 {
-    width: $col-13-width;
-}
-.col-12 {
-    width: $col-12-width;
-}
-.col-11 {
-    width: $col-11-width;
-}
-.col-10 {
-    width: $col-10-width;
-}
-.col-9 {
-    width: $col-9-width;
-}
-.col-8 {
-    width: $col-8-width;
-}
-.col-7 {
-    width: $col-7-width;
-}
-.col-6 {
-    width: $col-6-width;
-}
-.col-5 {
-    width: $col-5-width;
-}
-.col-4 {
-    width: $col-4-width;
-}
-.col-3 {
-    width: $col-3-width;
-}
-.col-2 {
-    width: $col-2-width;
-}
-.col-1 {
-    width: $col-1-width;
+    > .col-24 {
+        width: $col-24-width;
+    }
+    > .col-23 {
+        width: $col-23-width;
+    }
+    > .col-22 {
+        width: $col-22-width;
+    }
+    > .col-21 {
+        width: $col-21-width;
+    }
+    > .col-20 {
+        width: $col-20-width;
+    }
+    > .col-19 {
+        width: $col-19-width;
+    }
+    > .col-18 {
+        width: $col-18-width;
+    }
+    > .col-17 {
+        width: $col-17-width;
+    }
+    > .col-16 {
+        width: $col-16-width;
+    }
+    > .col-15 {
+        width: $col-15-width;
+    }
+    > .col-14 {
+        width: $col-14-width;
+    }
+    > .col-13 {
+        width: $col-13-width;
+    }
+    > .col-12 {
+        width: $col-12-width;
+    }
+    > .col-11 {
+        width: $col-11-width;
+    }
+    > .col-10 {
+        width: $col-10-width;
+    }
+    > .col-9 {
+        width: $col-9-width;
+    }
+    > .col-8 {
+        width: $col-8-width;
+    }
+    > .col-7 {
+        width: $col-7-width;
+    }
+    > .col-6 {
+        width: $col-6-width;
+    }
+    > .col-5 {
+        width: $col-5-width;
+    }
+    > .col-4 {
+        width: $col-4-width;
+    }
+    > .col-3 {
+        width: $col-3-width;
+    }
+    > .col-2 {
+        width: $col-2-width;
+    }
+    > .col-1 {
+        width: $col-1-width;
+    }
 }
 
 input[type="text"],
