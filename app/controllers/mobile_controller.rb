@@ -7,4 +7,10 @@ class MobileController < ApplicationController
 
     def login
     end
+
+    def signup
+    end
+
+    def signup2
+    end
 end

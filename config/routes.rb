@@ -3,10 +3,10 @@ Rails.application.routes.draw do
   get 'mobile/homeV6a'
   get 'mobile/homeV7b'
   get 'mobile/login'
+  get 'mobile/signup'
+  get 'mobile/signup2'
 
-  root 'mobile#homeV6a'
-
-  # root to: redirect('/test', status: 302)
+  root to: redirect('mobile/homeV6a', status: 302)
 
   # post 'test' => "foo", as: "foo"
 
