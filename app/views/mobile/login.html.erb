@@ -1,4 +1,4 @@
-<div class="bg-white column-wrapper">
+<div class="bg-white body-column-wrapper">
     <div>
         <div class="spacer-md"></div>
         <div class="spacer-sm"></div>
@@ -6,8 +6,13 @@
 
     <div class="body-column">
         <a href="#" class="button-lg bg-white text-gray-md border-gray-md text-left">
+            <div class="button-icon">
+                <%= image_tag "icons/icon-google.png", class: "" %>
+
+            </div>
             <div class="button-text">
-                <span class="font-semibold">Sign in with</span> <span class="font-bold">Google</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span class="">Sign in with</span> <span class="font-semibold">Google</span>
             </div>
         </a>
     </div>
@@ -16,8 +21,13 @@
 
     <div class="body-column">
         <a href="#" class="button-lg bg-blue-fb text-white text-left">
+            <div class="button-icon">
+                <%= image_tag "icons/icon-fb.png", class: "" %>
+
+            </div>
             <div class="button-text">
-                <span class="font-semibold">Sign in with</span> <span class="font-bold">Facebook</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span class="">Sign in with</span> <span class="font-semibold">Facebook</span>
             </div>
         </a>
     </div>
@@ -26,8 +36,13 @@
 
     <div class="body-column">
         <a href="#" class="button-lg bg-purple text-white text-left">
+            <div class="button-icon">
+                <%= image_tag "icons/icon-yahoo.png", class: "" %>
+
+            </div>
             <div class="button-text">
-                <span class="font-semibold">Sign in with</span> <span class="font-bold">Yahoo!</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span class="">Sign in with</span> <span class="font-semibold">Yahoo!</span>
             </div>
         </a>
     </div>
@@ -49,9 +64,12 @@
                 <input 
                     type="text" 
                     name="email-login"
-                    class="button-lg text-sm text-blue-dark font-semibold border-gray-md"
+                    class="button-lg text-sm text-blue-dark border-gray-md"
                     placeholder="Email Address" 
                     >
+                    <div class="input-icon">
+                        <span class="text-lg text-gray-md-light">@</span>
+                    </div>
             </div>
 
             <div>
@@ -62,9 +80,13 @@
                 <input 
                     type="text" 
                     name="pw-login"
-                    class="button-lg text-sm text-blue-dark font-semibold border-gray-md"
+                    class="button-lg text-sm text-blue-dark border-gray-md input-icon-lock"
                     placeholder="Password" 
                     >
+                <div class="input-icon">
+                    <%= image_tag "icons/lock.png", class: "" %>
+
+                </div>
             </div>
 
             <div>
@@ -76,7 +98,7 @@
             </div>
 
             <div>
-                <input type="submit" value="Log In" class="button-lg bg-red text-white text-center font-semibold">
+                <input type="submit" value="Log In" class="button-lg bg-red text-white text-center">
             </div>
         
         </form>

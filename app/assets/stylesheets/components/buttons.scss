@@ -3,8 +3,10 @@
 }
 
 
-.button-sm, .button-lg {
-    &[class*="button-"] {
+body {
+    .button-sm, 
+    .button-lg,
+    .panel {
         border-radius: 8px;
         overflow: hidden;
     }
@@ -28,7 +30,7 @@ $button-lg-LR-padding: 34px;
 $button-lg-LR-padding-thin: 18px;
 $button-lg-border-width: 1px;
 
-.button-lg[class*="button-"] {
+body .button-lg {
     display: inline-block;
     width: 100%;
     height: 92px;
@@ -37,17 +39,26 @@ $button-lg-border-width: 1px;
     @extend .border-thin;
     @extend .text-sm;
 
+    .button-text,
+    .button-icon {
+        display: inline-block;
+        vertical-align: top;
+    }
+
     .button-text {
         margin-top: 34px;
-        display: inline-block;
         overflow: visible;
     }
 
     .button-icon {
         height: 48px;
         width: 48px;
-        display: inline-block;
         margin-top: 23px;
+        text-align: center;
+
+        img {
+            height: 100%
+        }
     }
 
     &.button-group {
