@@ -59,24 +59,8 @@
 
     <div class="body-column">
         <form>
-            <% @signup2_inputs.each do |input| %>
-                <div>
-                    <input 
-                        type="text" 
-                        name="<%= input[:name] %>"
-                        class="button-lg text-sm text-blue-dark border-gray-md"
-                        placeholder="<%= input[:placeholder] %>" 
-                        >
-                    <div class="input-icon">
-                        <% if input[:icon] %>
-                            <%= image_tag input[:icon] %>
-                        <% else %>
-                            <span class="text-lg text-gray-md-light"><%= input[:icon_text]%></span>
-                        <% end %>
-                    </div>
-                    <div class="spacer-md"></div>
-                </div>
-            <% end %>
+
+            <%= render partial: "mobile/partials/input_text", collection: @signup2_inputs %>
 
             <div>
                 <input type="submit" value="Sign Up" class="button-lg bg-red text-white text-center">

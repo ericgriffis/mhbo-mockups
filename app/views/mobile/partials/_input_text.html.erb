@@ -1,0 +1,16 @@
+<div>
+    <input 
+        type="text" 
+        name="<%= input_text[:name] %>"
+        class="button-lg text-sm text-blue-dark border-gray-md"
+        placeholder="<%= input_text[:placeholder] %>" 
+        >
+    <div class="input-icon">
+        <% if input_text[:icon] %>
+            <%= image_tag input_text[:icon] %>
+        <% else %>
+            <span class="text-lg text-gray-md-light"><%= input_text[:icon_text]%></span>
+        <% end %>
+    </div>
+    <div class="spacer-md"></div>
+</div>
