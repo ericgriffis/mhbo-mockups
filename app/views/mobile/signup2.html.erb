@@ -5,50 +5,10 @@
     </div>
 
     <div class="body-column">
-        <a href="#" class="button-lg bg-white text-gray-md border-gray-md text-left">
-            <div class="button-icon">
-                <%= image_tag "icons/icon-google.png", class: "" %>
+        <%= render partial: "mobile/partials/button_large", collection: @signup_social_buttons %>
 
-            </div>
-            <div class="button-text">
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span class="">Sign Up with</span> <span class="font-semibold">Google</span>
-            </div>
-        </a>
     </div>
-
-    <div class="spacer-sm"></div>
-
-    <div class="body-column">
-        <a href="#" class="button-lg bg-blue-fb text-white text-left">
-            <div class="button-icon">
-                <%= image_tag "icons/icon-fb.png", class: "" %>
-
-            </div>
-            <div class="button-text">
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span class="">Sign Up with</span> <span class="font-semibold">Facebook</span>
-            </div>
-        </a>
-    </div>
-
-    <div class="spacer-sm"></div>
-
-    <div class="body-column">
-        <a href="#" class="button-lg bg-purple text-white text-left">
-            <div class="button-icon">
-                <%= image_tag "icons/icon-yahoo.png", class: "" %>
-
-            </div>
-            <div class="button-text">
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span class="">Sign Up with</span> <span class="font-semibold">Yahoo!</span>
-            </div>
-        </a>
-    </div>
-
-    <div class="spacer-md"></div>
-
+    
     <div class="body-column">
         <div class="text-center text-md text-gray-md">
             or
@@ -60,7 +20,7 @@
     <div class="body-column">
         <form>
 
-            <%= render partial: "mobile/partials/input_text", collection: @signup2_inputs %>
+            <%= render partial: "mobile/partials/input_text", collection: @signup_inputs %>
 
             <div>
                 <input type="submit" value="Sign Up" class="button-lg bg-red text-white text-center">

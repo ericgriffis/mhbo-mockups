@@ -12,7 +12,7 @@ class MobileController < ApplicationController
     end
 
     def signup2
-        @signup2_inputs = [
+        @signup_inputs = [
             {
                 name: 'firstname-signup',
                 placeholder: 'First Name',
@@ -37,6 +37,27 @@ class MobileController < ApplicationController
                 name: 'pw-confirm-signup',
                 placeholder: 'Confirm Password',
                 icon: 'icons/lock.png'
+            }
+        ]
+
+        @signup_social_buttons = [
+            {
+                class: 'bg-white text-gray-md border-gray-md',
+                icon: 'icons/icon-google.png',
+                text_reg: 'Sign Up with',
+                text_bold: 'Google'
+            },
+            {
+                class: 'bg-blue-fb text-white',
+                icon: 'icons/icon-fb.png',
+                text_reg: 'Sign Up with',
+                text_bold: 'Facebook'
+            },
+            {
+                class: 'bg-purple text-white',
+                icon: 'icons/icon-yahoo.png',
+                text_reg: 'Sign Up with',
+                text_bold: 'Yahoo!'
             }
         ]
     end
