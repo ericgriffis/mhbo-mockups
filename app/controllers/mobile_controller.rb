@@ -12,5 +12,13 @@ class MobileController < ApplicationController
     end
 
     def signup2
+        @foo = [
+            {
+                text: 'asdfasd'
+            },
+            {
+                text: 'asdf'
+            }
+        ]
     end
 end

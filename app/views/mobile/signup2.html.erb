@@ -58,27 +58,41 @@
     <div class="spacer-md"></div>
 
     <div class="body-column">
-        <a href="#" class="button-lg bg-blue-fb text-white text-left">
-            <div class="button-icon">
-                <%= image_tag "icons/icon-fb.png", class: "" %>
-
-            </div>
-            <div class="button-text">
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span class="">Sign Up with</span> <span class="font-semibold">Facebook</span>
-            </div>
-        </a>
-    </div>
-
-    <div class="spacer-sm"></div>
-
-
-    <div class="body-column">
         <form>
             <div>
                 <input 
                     type="text" 
-                    name="email-login"
+                    name="firstname-signup"
+                    class="button-lg text-sm text-blue-dark border-gray-md"
+                    placeholder="First Name" 
+                    >
+                    <div class="input-icon">
+                        <%= image_tag "icons/person.png", class: "" %>
+                    </div>
+            </div>
+
+            <div>
+                <div class="spacer-md"></div>
+            </div>
+
+            <div>
+                <input 
+                    type="text" 
+                    name="lastname-signup"
+                    class="button-lg text-sm text-blue-dark border-gray-md"
+                    placeholder="Last Name" 
+                    >
+                <div class="input-icon">
+                    <%= image_tag "icons/person.png", class: "" %>
+                </div>
+            </div>
+
+            <div class="spacer-md"></div>
+
+            <div>
+                <input 
+                    type="text" 
+                    name="email-signup"
                     class="button-lg text-sm text-blue-dark border-gray-md"
                     placeholder="Email Address" 
                     >
@@ -94,7 +108,7 @@
             <div>
                 <input 
                     type="text" 
-                    name="pw-login"
+                    name="pw-signup"
                     class="button-lg text-sm text-blue-dark border-gray-md"
                     placeholder="Password" 
                     >
@@ -104,27 +118,32 @@
                 </div>
             </div>
 
-            <div>
-                <div class="spacer-md"></div>
-                <div class="spacer-lg">
-                    <a href="#" class="right text-red text-sm font-semibold">Forgot Password?</a>
-                </div>
-                <div class="spacer-md"></div>
-            </div>
+            <div class="spacer-md"></div>
 
             <div>
-                <input type="submit" value="Log In" class="button-lg bg-red text-white text-center">
+                <input 
+                    type="text" 
+                    name="pw-confirm-signup"
+                    class="button-lg text-sm text-blue-dark border-gray-md"
+                    placeholder="Confirm Password" 
+                    >
+                <div class="input-icon">
+                    <%= image_tag "icons/lock.png", class: "" %>
+
+                </div>
+            </div>
+
+            <div class="spacer-md"></div>
+
+            <div>
+                <input type="submit" value="Sign Up" class="button-lg bg-red text-white text-center">
             </div>
         
         </form>
     </div>
 
-    <div>
-        <div>
-            <div class="spacer-xl"></div>
-            <div class="spacer-lg"></div>
-        </div>
-    </div>
+    <div class="spacer-md"></div>
+
 </div>
 
-<%= render template: "mobile/partials/_footer-sign-up" %>
+<%= render template: "mobile/partials/_footer-log-in" %>
