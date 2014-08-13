@@ -76,6 +76,6 @@ class MobileController < ApplicationController
             }
         ]
 
-        @signup_buttons = GFY_buttons;
+        @signup_buttons = GFY_BTNS;
     end
 end
