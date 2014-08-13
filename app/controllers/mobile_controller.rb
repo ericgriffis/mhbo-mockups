@@ -12,12 +12,31 @@ class MobileController < ApplicationController
     end
 
     def signup2
-        @foo = [
+        @signup2_inputs = [
             {
-                text: 'asdfasd'
+                name: 'firstname-signup',
+                placeholder: 'First Name',
+                icon: 'icons/person.png'
             },
             {
-                text: 'asdf'
+                name: 'lastname-signup',
+                placeholder: 'Last Name',
+                icon: 'icons/person.png'
+            },
+            {
+                name: 'email-signup',
+                placeholder: 'Email Address',
+                icon_text: '@'
+            },
+            {
+                name: 'pw-signup',
+                placeholder: 'Password',
+                icon: 'icons/lock.png'
+            },
+            {
+                name: 'pw-confirm-signup',
+                placeholder: 'Confirm Password',
+                icon: 'icons/lock.png'
             }
         ]
     end
