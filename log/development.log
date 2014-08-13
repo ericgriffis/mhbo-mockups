@@ -42999,3 +42999,228 @@ Started GET "/assets/icons/person.png" for 127.0.0.1 at 2014-08-12 18:41:50 -070
 
 
 Started GET "/assets/icons/lock.png" for 127.0.0.1 at 2014-08-12 18:41:50 -0700
+
+
+Started GET "/mobile/signup2" for 127.0.0.1 at 2014-08-13 10:40:32 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by MobileController#signup2 as HTML
+  Rendered mobile/partials/_footer-log-in.html.erb (0.4ms)
+  Rendered mobile/signup2.html.erb within layouts/mobile (14.4ms)
+  Rendered mobile/partials/_head.html.erb (75.0ms)
+  Rendered mobile/partials/_header.html.erb (2.5ms)
+Completed 200 OK in 129ms (Views: 104.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/icons/icon-fb.png" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/icons/icon-google.png" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/icons/icon-yahoo.png" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/icons/person.png" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/assets/icons/lock.png" for 127.0.0.1 at 2014-08-13 10:40:33 -0700
+
+
+Started GET "/mobile/signup2" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+Processing by MobileController#signup2 as HTML
+  Rendered mobile/partials/_footer-log-in.html.erb (0.0ms)
+  Rendered mobile/signup2.html.erb within layouts/mobile (1.4ms)
+  Rendered mobile/partials/_head.html.erb (30.3ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/icons/icon-google.png" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/icons/icon-fb.png" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/icons/icon-yahoo.png" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/icons/person.png" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/assets/icons/lock.png" for 127.0.0.1 at 2014-08-13 10:40:35 -0700
+
+
+Started GET "/mobile/signup2" for 127.0.0.1 at 2014-08-13 10:47:22 -0700
+Processing by MobileController#signup2 as HTML
+  Rendered mobile/signup2.html.erb within layouts/mobile (3.3ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (Missing template mobile/partials/_footer-log-in with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/walterroman/Clients/mhbo/repos/mhbo-mobile/app/views"
+):
+    89: 
+    90: </div>
+    91: 
+    92: <%= render template: "mobile/partials/_footer-log-in" %>
+  app/views/mobile/signup2.html.erb:92:in `_app_views_mobile_signup__html_erb___2126892261651466539_70194433431300'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (14.9ms)
+
+
+Started GET "/mobile/signup2" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+Processing by MobileController#signup2 as HTML
+  Rendered mobile/partials/footer/_footer-log-in.html.erb (0.3ms)
+  Rendered mobile/signup2.html.erb within layouts/mobile (3.1ms)
+  Rendered mobile/partials/_head.html.erb (3.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/icons/icon-google.png" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/icons/icon-fb.png" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/icons/icon-yahoo.png" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/icons/person.png" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/assets/icons/lock.png" for 127.0.0.1 at 2014-08-13 10:48:03 -0700
+
+
+Started GET "/mobile/signup2" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+Processing by MobileController#signup2 as HTML
+  Rendered mobile/partials/footer/_footer-log-in.html.erb (0.0ms)
+  Rendered mobile/signup2.html.erb within layouts/mobile (1.5ms)
+  Rendered mobile/partials/_head.html.erb (4.9ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/init.css?body=1" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/icons/icon-fb.png" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/icons/icon-google.png" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/icons/icon-yahoo.png" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/icons/lock.png" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
+
+
+Started GET "/assets/icons/person.png" for 127.0.0.1 at 2014-08-13 10:48:10 -0700
