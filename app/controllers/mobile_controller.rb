@@ -1,3 +1,36 @@
+BTNS = {
+    google: {
+        class: 'bg-white text-gray-md border-gray-md',
+        icon: 'icons/icon-google.png',
+        text_reg: 'Sign Up with',
+        text_bold: 'Google'
+    },
+    fb: {
+        class: 'bg-blue-fb text-white',
+        icon: 'icons/icon-fb.png',
+        text_reg: 'Sign Up with',
+        text_bold: 'Facebook'
+    },
+    yahoo: {
+        class: 'bg-purple text-white',
+        icon: 'icons/icon-yahoo.png',
+        text_reg: 'Sign Up with',
+        text_bold: 'Yahoo!'
+    },
+    email: {
+        class: 'bg-red text-white',
+        icon: 'icons/email.png',
+        text_reg: 'Sign Up with',
+        text_bold: 'Email'        
+    }
+}
+
+GFY_BTNS = [
+    BTNS[:google], 
+    BTNS[:fb], 
+    BTNS[:yahoo]
+]
+
 class MobileController < ApplicationController
     def homeV6a
     end
@@ -9,6 +42,9 @@ class MobileController < ApplicationController
     end
 
     def signup
+        @signup_buttons_1 = GFY_BTNS
+
+        @signup_buttons_2 = [BTNS[:email]]
     end
 
     def signup2
@@ -40,25 +76,6 @@ class MobileController < ApplicationController
             }
         ]
 
-        @signup_social_buttons = [
-            {
-                class: 'bg-white text-gray-md border-gray-md',
-                icon: 'icons/icon-google.png',
-                text_reg: 'Sign Up with',
-                text_bold: 'Google'
-            },
-            {
-                class: 'bg-blue-fb text-white',
-                icon: 'icons/icon-fb.png',
-                text_reg: 'Sign Up with',
-                text_bold: 'Facebook'
-            },
-            {
-                class: 'bg-purple text-white',
-                icon: 'icons/icon-yahoo.png',
-                text_reg: 'Sign Up with',
-                text_bold: 'Yahoo!'
-            }
-        ]
+        @signup_buttons = GFY_buttons;
     end
 end
