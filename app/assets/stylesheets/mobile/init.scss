@@ -4,6 +4,10 @@
 @import "base/init";
 @import "components/init";
 
+.round {
+    border-radius: 8px;
+}
+
 .video-arrow {
     margin-top: 23px;
     padding: 0;
