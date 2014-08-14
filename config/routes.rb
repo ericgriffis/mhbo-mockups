@@ -6,7 +6,7 @@ Rails.application.routes.draw do
   get 'mobile/signup'
   get 'mobile/signup2'
 
-  root to: redirect('mobile/homeV6a', status: 302)
+  # root to: redirect('application/root', status: 302)
 
   # post 'test' => "foo", as: "foo"
 
@@ -14,7 +14,7 @@ Rails.application.routes.draw do
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  # root 'welcome#index'
+  root 'application#root'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

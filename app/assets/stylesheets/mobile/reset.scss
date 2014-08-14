@@ -43,6 +43,7 @@ table {
 a {
     box-sizing: border-box;
     cursor: pointer;
+    color: inherit;
 }
 
 input[type="text"],
@@ -71,4 +72,12 @@ div, img, form, input {
     overflow: hidden;
     box-sizing: border-box;
     position: relative;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin: 0;
 }
