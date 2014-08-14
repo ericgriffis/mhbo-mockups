@@ -46,6 +46,10 @@ a {
     color: inherit;
 }
 
+input {
+    -webkit-appearance: none;
+}
+
 input[type="text"],
 input[type="submit"] {
     border: none;
