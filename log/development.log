@@ -49871,3 +49871,48 @@ Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 11:39:2
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 11:39:23 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (2.3ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (39.3ms)
+  Rendered mobile/partials/_head.html.erb (41.5ms)
+  Rendered mobile/partials/_header.html.erb (1.9ms)
+Completed 200 OK in 122ms (Views: 96.4ms)
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 12:40:22 -0700
+
+
+Started GET "/assets/stock/splash-A.jpg" for 127.0.0.1 at 2014-08-14 12:40:23 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 12:40:23 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 12:40:23 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 12:40:23 -0700

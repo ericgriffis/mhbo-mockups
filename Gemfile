@@ -11,7 +11,7 @@ end
 gem 'rails', '4.1.4'
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+# gem 'sqlite3'
 
 # Use PostgreSQL for project DB
 # gem 'pg'
@@ -54,4 +54,5 @@ gem 'spring',        group: :development
 # Heroku
 gem 'rails_12factor', group: :production
 
-
+# Mongo
+gem 'mongoid', github: 'mongoid/mongoid'
