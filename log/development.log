@@ -53551,3 +53551,82 @@ Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 15:49:3
 
 
 Started GET "/assets/stock/splash-A.jpg" for 127.0.0.1 at 2014-08-14 15:49:35 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+Processing by ApplicationController#root as HTML
+  Rendered mobile/partials/_header.html.erb (1.6ms)
+  Rendered application/root.html.erb within layouts/application (6.5ms)
+Warning. Error encountered while saving cache 4ee23db038e45df24257f74077860177acc76ed9/init.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 4ee23db038e45df24257f74077860177acc76ed9/reset.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 8424d855d52f0a7bb2093f6de28741868358d566/init.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 8424d855d52f0a7bb2093f6de28741868358d566/colors.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 8424d855d52f0a7bb2093f6de28741868358d566/layout.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache a5c08f8a9cad141f31b798dc8dca2b777fa860c9/init.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache a5c08f8a9cad141f31b798dc8dca2b777fa860c9/placeholder-text-color.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 07dd33be9fa4573d313609bc429dea8574843b6b/init.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 07dd33be9fa4573d313609bc429dea8574843b6b/bg-color.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 07dd33be9fa4573d313609bc429dea8574843b6b/border.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 07dd33be9fa4573d313609bc429dea8574843b6b/input-icon.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/init.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/font.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/size.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/color.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/align.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache cfd9db41b4a5ca496753c051dfb9106bd84bc00a/init.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache cfd9db41b4a5ca496753c051dfb9106bd84bc00a/spacer.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache cfd9db41b4a5ca496753c051dfb9106bd84bc00a/columns.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache cfd9db41b4a5ca496753c051dfb9106bd84bc00a/inline-group.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 832d71c723f6e70b70344ee55e7a6aa3c89d7406/init.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+Warning. Error encountered while saving cache 832d71c723f6e70b70344ee55e7a6aa3c89d7406/buttons.scssc: can't dump anonymous class #<Class:0x007f8ccb10e438>
+
+  Rendered mobile/partials/_head.html.erb (231.2ms)
+Completed 200 OK in 267ms (Views: 244.1ms)
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
+
+
+Started GET "/assets/stock/splash-A.jpg" for 127.0.0.1 at 2014-08-14 15:55:46 -0700
