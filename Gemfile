@@ -1,15 +1,25 @@
 source 'https://rubygems.org'
 
+# Google OAuth 2.0
+gem "omniauth-google-oauth2"
+
 # Generate sourcemaps in `development` mode
-# group :development do
-#   gem 'sass-rails-source-maps'
-# end
+group :development do
+  gem 'sass-rails-source-maps'
+end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+
+# Use PostgreSQL for project DB
+# gem 'pg'
+
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.3'
+# gem 'sass-rails', '~> 4.0.3'
+gem 'sass-rails', :git => 'git://github.com/whroman/sass-rails.git'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
@@ -40,4 +50,8 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Heroku
+gem 'rails_12factor', group: :production
+
 

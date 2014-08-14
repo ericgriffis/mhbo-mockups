@@ -1,0 +1,53 @@
+$opensans-reg-path: "../fonts/opensans_regular/OpenSans-Regular-webfont";
+$opensans-semibold-path: "../fonts/opensans_semibold/OpenSans-Semibold-webfont";
+$opensans-bold-path: "../fonts/opensans_bold/OpenSans-Bold-webfont";
+
+@font-face {
+    font-family: 'OpenSans-Reg';
+    src: url('#{$opensans-reg-path}.eot'); /* IE9 Compat Modes */
+    src: url('#{$opensans-reg-path}.eot?#iefix') format('embedded-opentype'), IE6-IE8
+        url('#{$opensans-reg-path}.woff') format('woff'), /* Modern Browsers */
+        url('#{$opensans-reg-path}.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('#{$opensans-reg-path}.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'OpenSans-Semibold';
+    src: url('#{$opensans-semibold-path}.eot'); /* IE9 Compat Modes */
+    src: url('#{$opensans-semibold-path}.eot?#iefix') format('embedded-opentype'), IE6-IE8
+        url('#{$opensans-semibold-path}.woff') format('woff'), /* Modern Browsers */
+        url('#{$opensans-semibold-path}.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('#{$opensans-semibold-path}.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('#{$opensans-bold-path}.eot'); /* IE9 Compat Modes */
+    src: url('#{$opensans-bold-path}.eot?#iefix') format('embedded-opentype'), IE6-IE8
+        url('#{$opensans-bold-path}.woff') format('woff'), /* Modern Browsers */
+        url('#{$opensans-bold-path}.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('#{$opensans-bold-path}.svg') format('svg'); /* Legacy iOS */
+}
+
+@mixin default-text() {
+    font-family: 'OpenSans-Reg', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+[class*="text-"] {
+    @include default-text;
+
+    .font-semibold,
+    &.font-semibold {
+        font-family: 'OpenSans-Semibold', Helvetica, Arial, sans-serif;
+    }
+
+    .font-bold,
+    &.font-bold {
+        font-family: 'OpenSans-Bold', Helvetica, Arial, sans-serif;
+    }
+}
+
+.asdf {
+    asdf: asdf;
+}
