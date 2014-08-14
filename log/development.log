@@ -52405,3 +52405,550 @@ Started GET "/assets/icons/icon-google.png" for 127.0.0.1 at 2014-08-14 13:41:52
 
 
 Started GET "/assets/icons/person.png" for 127.0.0.1 at 2014-08-14 13:41:52 -0700
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 13:49:38 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (2.2ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (8.6ms)
+  Rendered mobile/partials/_head.html.erb (71.0ms)
+  Rendered mobile/partials/_header.html.erb (2.0ms)
+Completed 200 OK in 117ms (Views: 95.3ms)
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 13:49:38 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (0.9ms)
+  Rendered mobile/partials/_head.html.erb (2.8ms)
+  Rendered mobile/partials/_header.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 6.3ms)
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 13:49:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 13:49:38 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/assets/stock/splash-A.jpg" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 13:49:39 -0700
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (2.2ms)
+  Rendered mobile/partials/_head.html.erb (4.1ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 10.5ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/stock/splash-A.jpg" for 127.0.0.1 at 2014-08-14 13:56:46 -0700
+
+
+Started GET "/assets/stock/splash-A.jpg" for 127.0.0.1 at 2014-08-14 13:57:08 -0700
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (6.0ms)
+  Rendered mobile/partials/_head.html.erb (2.6ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.1ms)
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+
+Started GET "/stock/splash-A.jp" for 127.0.0.1 at 2014-08-14 13:58:55 -0700
+
+ActionController::RoutingError (No route matches [GET] "/stock/splash-A.jp"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.9ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (9.2ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (38.6ms)
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (5.2ms)
+  Rendered mobile/partials/_head.html.erb (2.5ms)
+  Rendered mobile/partials/_header.html.erb (0.1ms)
+Completed 200 OK in 12ms (Views: 11.1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+
+Started GET "/stock/splash-A.jp" for 127.0.0.1 at 2014-08-14 13:58:58 -0700
+
+ActionController::RoutingError (No route matches [GET] "/stock/splash-A.jp"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.7ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.7ms)
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (6.6ms)
+Warning. Error encountered while saving cache 4ee23db038e45df24257f74077860177acc76ed9/init.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 4ee23db038e45df24257f74077860177acc76ed9/reset.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 8424d855d52f0a7bb2093f6de28741868358d566/init.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 8424d855d52f0a7bb2093f6de28741868358d566/colors.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 8424d855d52f0a7bb2093f6de28741868358d566/layout.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache a5c08f8a9cad141f31b798dc8dca2b777fa860c9/init.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache a5c08f8a9cad141f31b798dc8dca2b777fa860c9/placeholder-text-color.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 07dd33be9fa4573d313609bc429dea8574843b6b/init.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 07dd33be9fa4573d313609bc429dea8574843b6b/bg-color.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 07dd33be9fa4573d313609bc429dea8574843b6b/border.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 07dd33be9fa4573d313609bc429dea8574843b6b/input-icon.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/init.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/font.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/size.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/color.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 98cddd510d619f3d9a77e8709bf87bf7f3fcc121/align.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache cfd9db41b4a5ca496753c051dfb9106bd84bc00a/init.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache cfd9db41b4a5ca496753c051dfb9106bd84bc00a/spacer.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache cfd9db41b4a5ca496753c051dfb9106bd84bc00a/columns.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache cfd9db41b4a5ca496753c051dfb9106bd84bc00a/inline-group.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 832d71c723f6e70b70344ee55e7a6aa3c89d7406/init.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+Warning. Error encountered while saving cache 832d71c723f6e70b70344ee55e7a6aa3c89d7406/buttons.scssc: can't dump anonymous class #<Class:0x007febc210e4a0>
+
+  Rendered mobile/partials/_head.html.erb (228.4ms)
+  Rendered mobile/partials/_header.html.erb (0.2ms)
+Completed 200 OK in 239ms (Views: 238.2ms)
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+
+Started GET "/stock/splash-A.jp" for 127.0.0.1 at 2014-08-14 13:59:48 -0700
+
+ActionController::RoutingError (No route matches [GET] "/stock/splash-A.jp"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.3ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.4ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (24.7ms)
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (4.6ms)
+  Rendered mobile/partials/_head.html.erb (2.8ms)
+  Rendered mobile/partials/_header.html.erb (0.1ms)
+Completed 200 OK in 12ms (Views: 10.6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+
+Started GET "/stock/splash-A.jp" for 127.0.0.1 at 2014-08-14 13:59:54 -0700
+
+ActionController::RoutingError (No route matches [GET] "/stock/splash-A.jp"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.9ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (23.4ms)
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (0.2ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (6.1ms)
+  Rendered mobile/partials/_head.html.erb (3.3ms)
+  Rendered mobile/partials/_header.html.erb (0.3ms)
+Completed 200 OK in 15ms (Views: 14.1ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+
+Started GET "/stock/splash-A.jp" for 127.0.0.1 at 2014-08-14 14:00:35 -0700
+
+ActionController::RoutingError (No route matches [GET] "/stock/splash-A.jp"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /Library/Ruby/Gems/2.0.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.0ms)
+
+
+Started GET "/mobile/homeV6a" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+Processing by MobileController#homeV6a as HTML
+  Rendered mobile/partials/footer/_footer-lang-switch.html.erb (0.1ms)
+  Rendered mobile/homeV6a.html.erb within layouts/mobile (2.0ms)
+  Rendered mobile/partials/_head.html.erb (2.9ms)
+  Rendered mobile/partials/_header.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 8.8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/books.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/logos/mhbo-logo.png" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/icons/target.png" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/icons/arrow-switch.png" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/mobile/init.css?body=1" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
+
+
+Started GET "/assets/stock/splash-A.jpg" for 127.0.0.1 at 2014-08-14 14:00:44 -0700
