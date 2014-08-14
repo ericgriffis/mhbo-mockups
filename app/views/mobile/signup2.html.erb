@@ -1,47 +1,51 @@
-<div class="bg-white body-column-wrapper">
-    <div>
-        <div class="spacer-md"></div>
-        <div class="spacer-sm"></div>
-    </div>
+<body>
+    <%= render 'mobile/partials/header' %>
 
-    <div class="body-column">
-        <%= render partial: "mobile/partials/button_large", collection: @signup_buttons %>
-    </div>
-
-    <div class="spacer-xs"></div>
-    
-    <div class="body-column">
-        <div class="text-center text-md text-gray-md">
-            or
-        </div>
-    </div>
-
-    <div class="spacer-md"></div>
-
-    <div class="body-column">
-        <form>
-
-            <%= render partial: "mobile/partials/input_text", collection: @signup_inputs %>
-
+    <div class="bg-white body-column-wrapper">
+        <div>
             <div class="spacer-md"></div>
+            <div class="spacer-sm"></div>
+        </div>
 
-            <div class="full-width text-center text-gray-md text-sm">
-                <input checked="checked" type="checkbox" name="asd" id="signup-property-match">
-                <label for="signup-property-match">Sign Me Up for Property Match</label>
-                <div class="spacer-xl"></div>
+        <div class="body-column">
+            <%= render partial: "mobile/partials/button_large", collection: @signup_buttons %>
+        </div>
 
-            </div>
-
-            
-            <div>
-                <input type="submit" value="Sign Up" class="button-lg bg-red text-white text-center">
-            </div>
+        <div class="spacer-xs"></div>
         
-        </form>
+        <div class="body-column">
+            <div class="text-center text-md text-gray-md">
+                or
+            </div>
+        </div>
+
+        <div class="spacer-md"></div>
+
+        <div class="body-column">
+            <form>
+
+                <%= render partial: "mobile/partials/input_text", collection: @signup_inputs %>
+
+                <div class="spacer-md"></div>
+
+                <div class="full-width text-center text-gray-md text-sm">
+                    <input checked="checked" type="checkbox" name="asd" id="signup-property-match">
+                    <label for="signup-property-match">Sign Me Up for Property Match</label>
+                    <div class="spacer-xl"></div>
+
+                </div>
+
+                
+                <div>
+                    <input type="submit" value="Sign Up" class="button-lg bg-red text-white text-center">
+                </div>
+            
+            </form>
+        </div>
+
+        <div class="spacer-md"></div>
+
     </div>
 
-    <div class="spacer-md"></div>
-
-</div>
-
-<%= render template: "mobile/partials/footer/_footer-log-in" %>
+    <%= render template: "mobile/partials/footer/_footer-log-in" %>
+</body>

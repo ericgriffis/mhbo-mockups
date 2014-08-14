@@ -1,30 +1,34 @@
-<div class="bg-white body-column-wrapper">
-    <div>
-        <div class="spacer-md"></div>
-        <div class="spacer-sm"></div>
-    </div>
+<body>
+    <%= render 'mobile/partials/header' %>
 
-    <div class="body-column">
-        <%= render partial: "mobile/partials/button_large", collection: @signup_buttons_1 %>
-    </div>
-
-    <div class="spacer-xs"></div>
-
-    <div class="body-column">
-        <div class="text-center text-md text-gray-md">
-            or
+    <div class="bg-white body-column-wrapper">
+        <div>
+            <div class="spacer-md"></div>
+            <div class="spacer-sm"></div>
         </div>
+
+        <div class="body-column">
+            <%= render partial: "mobile/partials/button_large", collection: @signup_buttons_1 %>
+        </div>
+
+        <div class="spacer-xs"></div>
+
+        <div class="body-column">
+            <div class="text-center text-md text-gray-md">
+                or
+            </div>
+        </div>
+
+        <div class="spacer-md"></div>
+
+        <div class="body-column">
+            <%= render partial: "mobile/partials/button_large", collection: @signup_buttons_2 %>
+
+        </div>
+
+        <div class="spacer-md"></div>
+
     </div>
 
-    <div class="spacer-md"></div>
-
-    <div class="body-column">
-        <%= render partial: "mobile/partials/button_large", collection: @signup_buttons_2 %>
-
-    </div>
-
-    <div class="spacer-md"></div>
-
-</div>
-
-<%= render template: "mobile/partials/footer/_footer-log-in" %>
+    <%= render template: "mobile/partials/footer/_footer-log-in" %>
+</body>

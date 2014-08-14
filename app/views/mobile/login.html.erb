@@ -1,115 +1,119 @@
-<div class="bg-white body-column-wrapper">
-    <div>
-        <div class="spacer-md"></div>
-        <div class="spacer-sm"></div>
-    </div>
+<body>
+    <%= render 'mobile/partials/header' %>
 
-    <div class="body-column">
-        <a href="#" class="button-lg bg-white text-gray-md border-gray-md text-left">
-            <div class="button-icon">
-                <%= image_tag "icons/icon-google.png", class: "" %>
-
-            </div>
-            <div class="button-text">
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span class="">Sign in with</span> <span class="font-semibold">Google</span>
-            </div>
-        </a>
-    </div>
-
-    <div class="spacer-sm"></div>
-
-    <div class="body-column">
-        <a href="#" class="button-lg bg-blue-fb text-white text-left">
-            <div class="button-icon">
-                <%= image_tag "icons/icon-fb.png", class: "" %>
-
-            </div>
-            <div class="button-text">
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span class="">Sign in with</span> <span class="font-semibold">Facebook</span>
-            </div>
-        </a>
-    </div>
-
-    <div class="spacer-sm"></div>
-
-    <div class="body-column">
-        <a href="#" class="button-lg bg-purple text-white text-left">
-            <div class="button-icon">
-                <%= image_tag "icons/icon-yahoo.png", class: "" %>
-
-            </div>
-            <div class="button-text">
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span class="">Sign in with</span> <span class="font-semibold">Yahoo!</span>
-            </div>
-        </a>
-    </div>
-
-    <div class="spacer-md"></div>
-
-    <div class="body-column">
-        <div class="text-center text-md text-gray-md">
-            or
-        </div>
-    </div>
-
-    <div class="spacer-md"></div>
-
-
-    <div class="body-column">
-        <form>
-            <div>
-                <input 
-                    type="text" 
-                    name="email-login"
-                    class="button-lg text-sm text-blue-dark border-gray-md"
-                    placeholder="Email Address" 
-                    >
-                    <div class="input-icon">
-                        <span class="text-lg text-gray-md-light">@</span>
-                    </div>
-            </div>
-
-            <div>
-                <div class="spacer-md"></div>
-            </div>
-
-            <div>
-                <input 
-                    type="text" 
-                    name="pw-login"
-                    class="button-lg text-sm text-blue-dark border-gray-md"
-                    placeholder="Password" 
-                    >
-                <div class="input-icon">
-                    <%= image_tag "icons/lock.png", class: "" %>
-
-                </div>
-            </div>
-
-            <div>
-                <div class="spacer-md"></div>
-                <div class="spacer-lg">
-                    <a href="#" class="right text-red text-sm font-semibold">Forgot Password?</a>
-                </div>
-                <div class="spacer-md"></div>
-            </div>
-
-            <div>
-                <input type="submit" value="Log In" class="button-lg bg-red text-white text-center">
-            </div>
-        
-        </form>
-    </div>
-
-    <div>
+    <div class="bg-white body-column-wrapper">
         <div>
-            <div class="spacer-xl"></div>
-            <div class="spacer-lg"></div>
+            <div class="spacer-md"></div>
+            <div class="spacer-sm"></div>
+        </div>
+
+        <div class="body-column">
+            <a href="#" class="button-lg bg-white text-gray-md border-gray-md text-left">
+                <div class="button-icon">
+                    <%= image_tag "icons/icon-google.png", class: "" %>
+
+                </div>
+                <div class="button-text">
+                    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <span class="">Sign in with</span> <span class="font-semibold">Google</span>
+                </div>
+            </a>
+        </div>
+
+        <div class="spacer-sm"></div>
+
+        <div class="body-column">
+            <a href="#" class="button-lg bg-blue-fb text-white text-left">
+                <div class="button-icon">
+                    <%= image_tag "icons/icon-fb.png", class: "" %>
+
+                </div>
+                <div class="button-text">
+                    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <span class="">Sign in with</span> <span class="font-semibold">Facebook</span>
+                </div>
+            </a>
+        </div>
+
+        <div class="spacer-sm"></div>
+
+        <div class="body-column">
+            <a href="#" class="button-lg bg-purple text-white text-left">
+                <div class="button-icon">
+                    <%= image_tag "icons/icon-yahoo.png", class: "" %>
+
+                </div>
+                <div class="button-text">
+                    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <span class="">Sign in with</span> <span class="font-semibold">Yahoo!</span>
+                </div>
+            </a>
+        </div>
+
+        <div class="spacer-md"></div>
+
+        <div class="body-column">
+            <div class="text-center text-md text-gray-md">
+                or
+            </div>
+        </div>
+
+        <div class="spacer-md"></div>
+
+
+        <div class="body-column">
+            <form>
+                <div>
+                    <input 
+                        type="text" 
+                        name="email-login"
+                        class="button-lg text-sm text-blue-dark border-gray-md"
+                        placeholder="Email Address" 
+                        >
+                        <div class="input-icon">
+                            <span class="text-lg text-gray-md-light">@</span>
+                        </div>
+                </div>
+
+                <div>
+                    <div class="spacer-md"></div>
+                </div>
+
+                <div>
+                    <input 
+                        type="text" 
+                        name="pw-login"
+                        class="button-lg text-sm text-blue-dark border-gray-md"
+                        placeholder="Password" 
+                        >
+                    <div class="input-icon">
+                        <%= image_tag "icons/lock.png", class: "" %>
+
+                    </div>
+                </div>
+
+                <div>
+                    <div class="spacer-md"></div>
+                    <div class="spacer-lg">
+                        <a href="#" class="right text-red text-sm font-semibold">Forgot Password?</a>
+                    </div>
+                    <div class="spacer-md"></div>
+                </div>
+
+                <div>
+                    <input type="submit" value="Log In" class="button-lg bg-red text-white text-center">
+                </div>
+            
+            </form>
+        </div>
+
+        <div>
+            <div>
+                <div class="spacer-xl"></div>
+                <div class="spacer-lg"></div>
+            </div>
         </div>
     </div>
-</div>
 
-<%= render template: "mobile/partials/footer/_footer-sign-up" %>
+    <%= render template: "mobile/partials/footer/_footer-sign-up" %>
+</body>

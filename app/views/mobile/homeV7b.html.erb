@@ -1,107 +1,111 @@
-<div class="bg-white body-column-wrapper">
-    <div class="body-column">
-        <div>
-            <div class="spacer-xl"></div>
-            <div class="spacer-sm"></div>
+<body>
+    <%= render 'mobile/partials/header' %>
+
+    <div class="bg-white body-column-wrapper">
+        <div class="body-column">
+            <div>
+                <div class="spacer-xl"></div>
+                <div class="spacer-sm"></div>
+            </div>
+            
+            <div class="text-center text-md text-gray-md">
+                Find a mobile or manufactured home.
+            </div>
+
+            <div>
+                <div class="spacer-lg"></div>
+                <div class="spacer-sm"></div>            
+            </div>
         </div>
+
+        <div class="body-column">
+            <div class="button-lg bg-orange text-white border-orange">
+                <div class="left button-text">
+                    <span class="font-semibold">Search Nearby</span>
+                </div>
+                <div class="right">
+                    <%= image_tag "icons/target.png", class: "button-icon" %>
+                </div>
+
+            </div>
+
+            <div>
+                <div class="spacer-md"></div>
+                <div class="spacer-sm"></div>
+            </div>
+        </div>
+
+        <div class="body-column">
+            <form class="button-lg button-group bg-white text-gray border-gray-md">
+                <input 
+                    type="text" 
+                    name="searchCSZ"
+                    class="left full-height full-width text-sm text-blue-dark font-semibold"
+                    placeholder="Search a City, State, or Zip" 
+                    style="width: 460px;"
+                    >
+                <input 
+                    type="submit" 
+                    value="GO"
+                    class="right full-height bg-orange text-white text-sm font-semibold"
+                    >
+
+            </form>
+
+            <div>
+                <div class="spacer-md"></div>
+                <div class="spacer-sm"></div>
+            </div>
+        </div>
+
+        <div class="body-column">
+            <a href="#" class="panel thin-pad bg-gray-xlight text-gray-md border-gray-xlight">
+
+                <div>
+                    <div class="spacer-md"></div>
+                    <div class="spacer-xs"></div>
+                </div>
+
         
-        <div class="text-center text-md text-gray-md">
-            Find a mobile or manufactured home.
-        </div>
-
-        <div>
-            <div class="spacer-lg"></div>
-            <div class="spacer-sm"></div>            
-        </div>
-    </div>
-
-    <div class="body-column">
-        <div class="button-lg bg-orange text-white border-orange">
-            <div class="left button-text">
-                <span class="font-semibold">Search Nearby</span>
-            </div>
-            <div class="right">
-                <%= image_tag "icons/target.png", class: "button-icon" %>
-            </div>
-
-        </div>
-
-        <div>
-            <div class="spacer-md"></div>
-            <div class="spacer-sm"></div>
-        </div>
-    </div>
-
-    <div class="body-column">
-        <form class="button-lg button-group bg-white text-gray border-gray-md">
-            <input 
-                type="text" 
-                name="searchCSZ"
-                class="left full-height full-width text-sm text-blue-dark font-semibold"
-                placeholder="Search a City, State, or Zip" 
-                style="width: 460px;"
-                >
-            <input 
-                type="submit" 
-                value="GO"
-                class="right full-height bg-orange text-white text-sm font-semibold"
-                >
-
-        </form>
-
-        <div>
-            <div class="spacer-md"></div>
-            <div class="spacer-sm"></div>
-        </div>
-    </div>
-
-    <div class="body-column">
-        <a href="#" class="panel thin-pad bg-gray-xlight text-gray-md border-gray-xlight">
-
-            <div>
-                <div class="spacer-md"></div>
-                <div class="spacer-xs"></div>
-            </div>
-
-    
-            <div class="col-wrapper">
-                <div class="col-12 text-center">
-                        <%= image_tag "stock/mhbo-video.jpg", class: "border-thick border-gray-light round" %>
-                </div>
-
-                <div class="col-11 text-center">
-                    <div class="text-gray-md-light text-sm font-semibold">SELL YOUR HOME</div>
-                    <div>
-                        <div class="spacer-lg"></div>
-                        <div class="spacer-xs"></div>
+                <div class="col-wrapper">
+                    <div class="col-12 text-center">
+                            <%= image_tag "stock/mhbo-video.jpg", class: "border-thick border-gray-light round" %>
                     </div>
 
-                    <div class="text-block text-blue col-wrapper">
-                        <div class="col-2"></div>
-                        <div class="col-20 gutter-double">
-                            Watch video to learn how
+                    <div class="col-11 text-center">
+                        <div class="text-gray-md-light text-sm font-semibold">SELL YOUR HOME</div>
+                        <div>
+                            <div class="spacer-lg"></div>
+                            <div class="spacer-xs"></div>
                         </div>
-                        <div class="col-2 video-arrow">
-                            <%= image_tag "icons/arrow-right.png", class: "" %>
+
+                        <div class="text-block text-blue col-wrapper">
+                            <div class="col-2"></div>
+                            <div class="col-20 gutter-double">
+                                Watch video to learn how
+                            </div>
+                            <div class="col-2 video-arrow">
+                                <%= image_tag "icons/arrow-right.png", class: "" %>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <div>
-                <div class="spacer-md"></div>
-                <div class="spacer-xs"></div>
-            </div>
-        </a>
-    </div>
+                <div>
+                    <div class="spacer-md"></div>
+                    <div class="spacer-xs"></div>
+                </div>
+            </a>
+        </div>
 
-    <div>
         <div>
-            <div class="spacer-xl"></div>
-            <div class="spacer-lg"></div>
+            <div>
+                <div class="spacer-xl"></div>
+                <div class="spacer-lg"></div>
+            </div>
         </div>
     </div>
-</div>
 
 
-<%= render template: "mobile/partials/footer/_footer-lang-switch" %>
+    <%= render template: "mobile/partials/footer/_footer-lang-switch" %>
+</body>
